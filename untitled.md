@@ -8,7 +8,7 @@ Usage: `.botinfo`
 
 This command will send an embed with some information about the bot in the channel you're currently in.
 
-!!! important "Command Change"
+**Command Change**
 
 * ChangeRole -&gt; Role Create/Role Delete
 * Use \_'s as spaces!
@@ -59,7 +59,7 @@ Usage: `.serverinfo`
 
 This command will send information about your server such as member presences, voice region, and nitro level.
 
-!!!note "Note" Credit to applebee\#3071 for this command idea and its features!
+**Credit to applebee\#3071 for this command idea and its features!**
 
 ## Uptime
 
