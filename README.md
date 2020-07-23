@@ -4,7 +4,7 @@
 
 This is the official documentation for Kukita Bot. This documentation is far from finished and new features will be added constantly, but I'll do my best to update these as new features are added to the bot!
 
-If you happen to find a bug or an issue with this documentation, feel free to report it [here](https://github.com/sp00p/Kukita/issues)
+If you happen to find a bug or an issue with this documentation, feel free to report it [here](https://discord.gg/UD23c9B)
 
 ## Modules
 
