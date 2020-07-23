@@ -2,9 +2,9 @@
 
 This module contains the commands that are supported by Kukita Bot to help moderate your server
 
-!!! note "Note" Required Permissions is not explicit. The permission handler will simply check if the user has any of the permissions listed. They can be found under each role in your discord server settings.
+**Required Permissions is not explicit. The permission handler will simply check if the user has any of the permissions listed. They can be found under each role in your discord server settings.**
 
-!!! note "Note" Kukita Bot currently uses discord-anti-spam to prevent your server from getting raided. The config can be found [here](https://github.com/sp00p/Kukita/blob/d1183ab9cb56f8f2b230a3b26a99927342a3f6a2/index.js#L10)
+**Kukita Bot currently uses discord-anti-spam to prevent your server from getting raided. This info can be displayed using the .botinfo command.**
 
 ## Ban
 
@@ -70,8 +70,6 @@ Required Permissions:`ADMINISTRATOR`
 
 This command will cause the channel you are resetting, along with all the messages within that channel to be deleted. The channel will then be duplicated and will have all the same role permissions as it did just without the messages.
 
-!!! important "New Commands"
-
 ## Slowmode
 
 Usage: `.slowmode <time>`
@@ -96,7 +94,7 @@ Required Permissions: `KICK_MEMBERS, ADMINISTRATOR`
 
 This command clears all warns for a user in your guild.
 
-!!! important "Coming Soon"
+## Coming Soon
 
 * Kick when user reaches a certain amount of warns
 

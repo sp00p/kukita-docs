@@ -10,11 +10,11 @@ This command will send you the amount of money you currently have.
 
 !!! important "New Commands"
 
-## EditMoney
+## Daily
 
-Usage: `.editmoney @user <value>`
+Usage: `.daily`
 
-This command will let the guild owner edit the specified member's money.
+You can use this command once a day to get $100.
 
 ## Leaderboard
 
@@ -28,7 +28,13 @@ Usage: `.pay @user <value>`
 
 This command will let you pay another user.
 
-!!! important "Coming soon"
+## Work
+
+Usage: `.work`
+
+This command lets you work once every 4 hours. 
+
+## Coming Soon
 
 * Shop System
 * Gambling/Minigames with money

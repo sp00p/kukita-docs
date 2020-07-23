@@ -20,13 +20,33 @@ Usage: `.dm <user> <message>`
 
 This command will send a message to the specified user with the bot
 
-\*\*\*\*
+## 8Ball
 
-**Coming Soon**
+Usage: `.8ball <message>`
 
-* 8ball command
-* Snipe
-* Oldest/Youngest Command
-* Trivia Command
-* Avatar Command
+This command will send an answer to your question using an 8ball.
+
+## Snipe
+
+Usage: `.snipe`
+
+This command snipes the most recently deleted command in the channels and sends it
+
+## Avatar
+
+Usage: `.avatar <user>`
+
+This command sends the user's avatar
+
+## Meme
+
+Usage: `.meme`
+
+This command will send a random meme to the channel it's used in.
+
+## Reddit
+
+Usage: `.reddit <subreddit>`
+
+This command will send a random image from the specified subreddit.
 
