@@ -8,64 +8,74 @@ Usage: `.botinfo`
 
 This command will send an embed with some information about the bot in the channel you're currently in.
 
-## Hello
+**Command Change**
 
-Usage: `.hello`  
+* ChangeRole -&gt; Role Create/Role Delete
+* Use \_'s as spaces!
 
-The first command I added to this bot and decided to keep it.
+## Role Create
+
+Usage: `.role create <role name> <hex color>`
+
+Required Permissions: `MANAGE_ROLES, ADMINISTRATOR`
+
+This command will create a role with the given role name.
+
+## Role Delete
+
+Usage: \`.role delete 
+
+Required Permissions: `MANAGE_ROLES, ADMINISTRATOR`
+
+This command will delete the specified role
 
 ## Help
 
-Usage: `.help [command name]`  
+Usage: `.help`
 
-This command will send you a list of commands or if you provide a command name, it will send you more information about it.
+This command will DM you an embed that includes all the commands in these documents.
 
 ## Info
 
-Usage: `.info <user>`  
+Usage: `.info <user>`
 
-This command will send an embed of all the permissions the specified user has and doesn't have.
+This command returns an embed with info about the mentioned user such as their TTS Status, whether they're a priority speaker or not, their ability to mention everyone, ect.
 
 ## InviteMe
 
-Usage: `.invite`  
+Usage: `.inviteme`
 
-This command will send you an OAuth2 link so you can invite Kukita to your server.
+This command will DM you the OAuth link to invite the bot to your server.
 
 ## Ping
 
-Usage: `.ping`  
+Usage: `.ping`
 
-This command will send you the bot and API latency. 
-
-## Prefix 
-
-Usage: `.prefix <new prefix>`  
-
-Required Permissions: `Guild Owner`
-
-This command allows you to change the prefix for your server.
-
-## Role  
-
-Usage: `.role <user> <add/remove> <role name>` 
-
-This command lets you add or remove a specific role from a user.
-
-## ServerEmojis
-
-Usage: `.emojis`  
-
-This command will send an embed with all of the server's emojis.
+This command will send an embed with the bot latency and API Latency.
 
 ## ServerInfo
 
-Usage: `.serverinfo`  
+Usage: `.serverinfo`
 
-This command will send you information about the server that you're currently in.
+This command will send information about your server such as member presences, voice region, and nitro level.
 
-## Uptime 
+**Credit to applebee\#3071 for this command idea and its features!**
 
-Usage: `.uptime`  
+## Uptime
 
-This command will send the current uptime of the bot. 
+Usage: `.uptime`
+
+This command will send an embed that displays how long Kukita Bot has been running.
+
+## ServerEmojis
+
+Usage: `.serveremojis`
+
+This command will send an embed with a list of the static and animated emojis of your current guild.
+
+## Prefix
+
+Usage: `.prefix <new prefix>`
+
+This command allows you to set a custom prefix for the bot in your guild.
+
