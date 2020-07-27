@@ -36,6 +36,8 @@ Required Permissions: `MUTE_MEMBERS, ADMINISTRATOR`
 
 This command will mute the specified user and DM them an embed with the information about their mute. A reason is optional and will send "Not Specified" if no reason is given.
 
+Note: You must have a role with the name of "Muted" although I plan to make it more customizable in the future.
+
 ## Purge
 
 Usage: `.purge <number of messages>`
@@ -92,13 +94,11 @@ Required Permissions: `KICK_MEMBERS, ADMINISTRATOR`
 
 This command will warn the specified user. It's then stored in a database that can be accessed if you want to keep track of warns. It also stores your guildID so there won't be any issues with your guild being interfered with.
 
-## Warns 
+## Warns
 
-Usage: `.warns <user>`  
+Usage: `.warns <user>`
 
-This command will display the warns for the specified user in the current server 
-
-
+This command will display the warns for the specified user in the current server
 
 ## Coming Soon
 

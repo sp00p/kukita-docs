@@ -28,9 +28,3 @@ Kukita Bot has an economy system, check it out.
 
 [Here's a list of commands](economy.md)
 
-### Fun
-
-Kukita Bot also has some fun commands that you can check out. 
-
-[Here's a list of commands](fun.md)
-
