@@ -94,6 +94,8 @@ Required Permissions: `KICK_MEMBERS, ADMINISTRATOR`
 
 This command will warn the specified user. It's then stored in a database that can be accessed if you want to keep track of warns. It also stores your guildID so there won't be any issues with your guild being interfered with.
 
+Note: You must have a role with the name of "Muted" for the user to be muted. In the future I'll make it more customizable.
+
 ## Warns
 
 Usage: `.warns <user>`
