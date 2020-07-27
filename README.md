@@ -20,11 +20,11 @@ Kukita Bot can handle any of your moderation needs in your server. Whether it be
 
 Kukita Bot also has some information commands to provide you with some more information about your server and its members.
 
-[Here's a list of commands](utility.md)
+[Here's a list of commands](https://github.com/sp00p/kukita-docs/tree/c4324da683800737ccc4ea5ce54859f47358dd3d/utility.md)
 
 ### Economy
 
 Kukita Bot has an economy system, check it out.
 
-[Here's a list of commands](economy.md)
+[Here's a list of commands](https://github.com/sp00p/kukita-docs/tree/c4324da683800737ccc4ea5ce54859f47358dd3d/economy.md)
 

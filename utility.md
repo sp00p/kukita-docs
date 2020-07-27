@@ -23,7 +23,7 @@ This command will create a role with the given role name.
 
 ## Role Delete
 
-Usage: \`.role delete 
+Usage: \`.role delete
 
 Required Permissions: `MANAGE_ROLES, ADMINISTRATOR`
 
