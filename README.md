@@ -24,7 +24,7 @@ Kukita Bot also has some information commands to provide you with some more info
 
 ### Economy
 
-Kukita Bot has an economy system that is currently a WIP
+Kukita Bot has an economy system, check it out.
 
 [Here's a list of commands](economy.md)
 
