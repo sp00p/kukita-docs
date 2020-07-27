@@ -92,11 +92,13 @@ Required Permissions: `KICK_MEMBERS, ADMINISTRATOR`
 
 This command will warn the specified user. It's then stored in a database that can be accessed if you want to keep track of warns. It also stores your guildID so there won't be any issues with your guild being interfered with.
 
-## Warns
+## Warns 
 
-Usage: `.warns <user>`
+Usage: `.warns <user>`  
 
-This command will display the warns for the specified user in the current server
+This command will display the warns for the specified user in the current server 
+
+
 
 ## Coming Soon
 
