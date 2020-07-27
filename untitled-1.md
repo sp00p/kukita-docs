@@ -2,40 +2,89 @@
 
 This module contains the commands that are supported by Kukita Bot to manage your server economy. To get more money, all you have to do is chat!
 
-## Money
+## ChickenFight
 
-Usage: `.money`
+Usage: `.cf <bet amount>`  
 
-This command will send you the amount of money you currently have.
+This command lets you bet on a chicken fight.
 
-!!! important "New Commands"
+## CreateAccount
+
+Usage: `.create`  
+
+This command creates an account for you so that you can start playing games and earning xp.
 
 ## Daily
 
-Usage: `.daily`
+Usage: `.daily`  
 
-You can use this command once a day to get $100.
+This command gives you a day's worth of coins.
 
-## Leaderboard
+## Dice 
 
-Usage: `.leaderboard`
+Usage: `.dice <bet amount> [over/under]`  
 
-This command will show the top 10 richest players in your server
+This command lets you play dice against the bot.
 
-## Pay
+## Inventory
 
-Usage: `.pay @user <value>`
+Usage: `.inv`  
 
-This command will let you pay another user.
+This command shows you all the items you have in your inventory.
 
-## Work
+## Leaderboard 
 
-Usage: `.work`
+Usage: `.lb`  
 
-This command lets you work once every 4 hours. 
+This command displays the bot's top 10 richest players.
 
-## Coming Soon
+## Pay 
 
-* Shop System
-* Gambling/Minigames with money
+Usage: `.pay`  
+
+This command lets you pay another user.
+
+## Profile 
+
+Usage: `.profile`  
+
+This command displays your profile.
+
+## Rob
+
+Usage: `.rob <user>`  
+
+This command lets you rob another user.
+
+## Roulette
+
+Usage: `.rl <bet amount> [red/black/green] [even/odd]`  
+
+This command allows you to play roulette. Note: You must either input a color or even/odd to play.
+
+## Shop 
+
+Usage: `.shop || .shop ranks`  
+
+This command will display the item or rank shop depending on which command you use. To purchase an item,
+type either `.shop buy <item name>` for an item or `.shop ranks buy <rank name>` for a rank. If you decide 
+to purchase a rank, it will be displayed on your profile immediately afterwards.
+
+## Slots 
+
+Usage: `.slots <bet amount>`  
+
+This command allows you to play slots.
+
+## Weekly
+
+Usage: `.weekly`  
+
+This command gives you a week's worth of coins.
+
+## Work 
+
+Usage: `.work`  
+
+This command lets you work once every 4 hours for coins.
 
