@@ -14,12 +14,6 @@ Usage: `.avatar <user>`
 
 This command sends the user's avatar
 
-## DM
-
-Usage: `.dm <user> <message>`
-
-This command will send a message to the specified user with the bot
-
 ## Meme
 
 Usage: `.meme`
