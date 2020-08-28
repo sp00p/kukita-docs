@@ -34,7 +34,13 @@ This command will make the bot send the given message in chat
 
 ## Snipe
 
-Usage: `.snipe`
+Usage: `.snipe [number of messages back]`
 
-This command snipes the most recently deleted command in the channels and sends it
+This command snipes the most recently deleted command in the channels and sends it. If it's provided with a number it'll send older messages.
+
+## Search
+
+Usage: `.search <query>`
+
+This command allows you to preform a google search with a bot. The bot will send you a link with your query after you run this command.
 
