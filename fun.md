@@ -44,3 +44,9 @@ Usage: `.search <query>`
 
 This command allows you to preform a google search with a bot. The bot will send you a link with your query after you run this command.
 
+## TTS
+
+Usage: `.tts <language> <message>`
+
+This command will make the bot generate a text to speech message with the specified language. The current languages that are supported are: en-US, en-UK, ru \(Russian\), and it \(Italian\).
+
