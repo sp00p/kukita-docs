@@ -13,22 +13,6 @@ This command will send an embed with some information about the bot in the chann
 * ChangeRole -&gt; Role Create/Role Delete
 * Use \_'s as spaces!
 
-## Role Create
-
-Usage: `.role create <role name> <hex color>`
-
-Required Permissions: `MANAGE_ROLES, ADMINISTRATOR`
-
-This command will create a role with the given role name.
-
-## Role Delete
-
-Usage: \`.role delete
-
-Required Permissions: `MANAGE_ROLES, ADMINISTRATOR`
-
-This command will delete the specified role
-
 ## Help
 
 Usage: `.help`
@@ -66,12 +50,6 @@ This command will send information about your server such as member presences, v
 Usage: `.uptime`
 
 This command will send an embed that displays how long Kukita Bot has been running.
-
-## ServerEmojis
-
-Usage: `.serveremojis`
-
-This command will send an embed with a list of the static and animated emojis of your current guild.
 
 ## Prefix
 
